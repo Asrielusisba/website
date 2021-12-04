@@ -9,7 +9,7 @@
 .header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/anis.JPG);
+    background-image: linear-gradient(rgba(0,0,0,0.5),#0090),url(images/anis.JPG);
     background-position: center;
     background-size: cover;
     color: #fff;
@@ -45,7 +45,7 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     color: #fff;
-    font-size: 17px;
+    font-size: 20px;
     letter-spacing: 1px;
 }
 
